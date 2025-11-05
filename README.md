@@ -1,6 +1,6 @@
-# care.coach Epic FHIR JWKS Hosting
+# Epic FHIR JWKS Hosting
 
-This repository hosts the JSON Web Key Set (JWKS) for the care.coach Epic FHIR integration.
+This repository hosts the JSON Web Key Set (JWKS) for Epic FHIR integration.
 
 ## Purpose
 
